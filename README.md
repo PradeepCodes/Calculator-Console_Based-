@@ -25,7 +25,7 @@ The program takes user input from the console and performs the selected operatio
 1. Clone the repository:
 
    ```
-   git clone <your-repository-url>
+   git clone https://github.com/PradeepCodes/Calculator-Console_Based-
    ```
 2. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code).
 3. Compile and run the `Calculator.java` file.
